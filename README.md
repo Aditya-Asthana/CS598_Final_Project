@@ -1,4 +1,4 @@
-# When More Is Less: Synthetic Domain Shift Demo
+# When More Is Less: Synthetic Domain Shift
 
 This repository contains a minimal, self-contained demo of the “When More Is Less” phenomenon from Compton et al., in which adding an external dataset can paradoxically *hurt* subgroup robustness by introducing spurious correlations. We recreate the core single- vs. multi-domain ERM experiment on a small chest X-ray subset, using synthetic augmentations as a proxy for a second “hospital.”
 
